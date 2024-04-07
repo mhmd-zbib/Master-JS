@@ -1,10 +1,11 @@
 /**
  * filter array is a function that filters any array with the givin rule set to it
  *
- * @params {Array} array - The array to be filtered
- * @Params {Function} test - Pass the test rule for it, that inside the array will
+ * @param {Array} array - The array to be filtered
+ * @param {Function} test - Pass the test rule for it, that inside the array will
  *                           get it to be true and work upon it
  *
+ *  
  *
  * @return {Array} A new array that meats the conditions
  */
